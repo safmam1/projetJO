@@ -1,8 +1,8 @@
 # Projet de Gestion des Performances des Athlètes aux J-O
-## Description du projet 📜
+## Description du projet 
 Le but de ce projet est de développer une application permettant aux organisateurs de gérer les performances des athlètes durant les Jeux Olympiques. L'application permet de suivre les performances, calculer des statistiques et gérer les données des athlètes.
 
-## Ce projet implique 💼
+## Ce projet implique 
 ● Gestion des fichiers  
 
 ● Allocation dynamique  
@@ -10,7 +10,7 @@ Le but de ce projet est de développer une application permettant aux organisate
 ● Conception d'interface  
 
 ● Informations générales
-## Avantages du projet 🚀
+## Avantages du projet 
 ● Gestion des données des athlètes.  
 
 ● Sauvegarde et chargement des états de performance.  
@@ -19,7 +19,7 @@ Le but de ce projet est de développer une application permettant aux organisate
 
 ● Interface utilisateur pour la gestion et l'analyse des données.
 ● Modes d'utilisation
-## Mode Manager 💫
+## Mode Manager 
 ● Création et configuration des profils des athlètes.  
 
 ● Enregistrement des performances des athlètes.  
@@ -27,7 +27,7 @@ Le but de ce projet est de développer une application permettant aux organisate
 ● Définition et modification des données de performance.  
 
 ● Consultation des statistiques et des analyses des performances.
-## Mode Spectateur 🍾
+## Mode Spectateur 
 ● Affichage des athlètes et de leurs performances.  
 
 ● Consultation des statistiques et des records.  
