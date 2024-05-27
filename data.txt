@@ -1,4 +1,0 @@
-Mamoun,2023-12-24,Relais 4x400m,45.00,1
-Myriam,2023-12-24,Relais 4x400m,21.00,2
-Assaad,2023-12-24,Relais 4x400m,21.00,3
-William,2023-12-24,Relais 4x400m,21.00,4
